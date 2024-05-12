@@ -13,8 +13,11 @@ Scenario: The Home Equity dataset (HMEQ) contains baseline and loan performance 
 Business objective: Analyze the Home Equity data captured by the bank and answer the analysis asks that can be implied to reduce loan defaults by the customers.
 
 Data, Information for case analysis: Data is provided as an xlsx file. Below is the source and attribute information.
+
 Source Link: https://www.kaggle.com/datasets/ajay1735/hmeq-data
+
 Data Description:
+
    BAD: 1 = client defaulted on loan; 0 = loan repaid
    
    LOAN: Amount of the loan requested
