@@ -41,32 +41,33 @@ Data Description:
    
    DEBTINC: Debt-to-income ratio
 
-Analysis Asks: 1. What is the maximum amount of loan requested by a customer of the bank whose JOB falls under the “Office” category? (Use array formula)
+Analysis Asks: 
+1. What is the maximum amount of loan requested by a customer of the bank whose JOB falls under the “Office” category? (Use array formula)
                
-               2. How many customers have their respective debt-to-income ratio greater than the average DEBTINC?
+2. How many customers have their respective debt-to-income ratio greater than the average DEBTINC?
                
-               3. Calculate the total amount of top five mortgage dues using appropriate functions in Excel.
+3. Calculate the total amount of top five mortgage dues using appropriate functions in Excel.
                
-               4. Determine the number of derogatory reports for the trade line with age 227.12990511 months, using Match and Index functions.
+4. Determine the number of derogatory reports for the trade line with age 227.12990511 months, using Match and Index functions.
                
-               5. What is the average value of property for a self-employed client who has defaulted on the loan? (Use array formula)
+5. What is the average value of property for a self-employed client who has defaulted on the loan? (Use array formula)
                
-               6. Examine the relationship between the loan purpose and number of delinquent credit lines. Note down the inferences drawn.
+6. Examine the relationship between the loan purpose and number of delinquent credit lines. Note down the inferences drawn.
                
-               7. What can you deduct about the debt-to-income ratio in relation to job?
+7. What can you deduct about the debt-to-income ratio in relation to job?
                
-               8. Create a pivot table detailing the number of delinquent credit lines for each job category in relation to the reason column. Then determine the number of delinquent 
+8. Create a pivot table detailing the number of delinquent credit lines for each job category in relation to the reason column. Then determine the number of delinquent 
                credit lines for the “ProfExe” job category where the reason is given as “HomeImp”.
                
-               9. Design a pivot chart highlighting the total mortgage due across different job categories in relation with the reason for loan and show the results for loan defaulters. 
-                  Note down the observations drawn.
+9. Design a pivot chart highlighting the total mortgage due across different job categories in relation with the reason for loan and show the results for loan defaulters. 
+   Note down the observations drawn.
                
-               10. Create a dashboard with two pivot charts:
+10. Create a dashboard with two pivot charts:
                         
-                        ● One showing the total number of credit lines taken across job categories for loan defaulters, using “REASON” column as slicer
+    ● One showing the total number of credit lines taken across job categories for loan defaulters, using “REASON” column as slicer
                         
-                        ● Another for debt-to-income ratio across job categories with years at job as slicer
+    ● Another for debt-to-income ratio across job categories with years at job as slicer
                    
-                   Slice and dice the charts where debt consolidation is cited as the reason along with a decade of job experience. Also, draw meaningful insights from the dashboard.
+    Slice and dice the charts where debt consolidation is cited as the reason along with a decade of job experience. Also, draw meaningful insights from the dashboard.
 
 Inferences: Mentioned in the .XLSX file labled "Home equity loan default Adv Excel Project" for each problem statement seperately.
