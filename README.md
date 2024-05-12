@@ -4,6 +4,7 @@ Project: Analyzing Home Equity dataset for drawing inferences on loan defaults
 Introduction: A home equity loan - also known as an equity loan, home equity installment loan, or second mortgage - is a type of consumer debt. Home equity loans allow homeowners to borrow against the equity in their homes. The loan amount is based on the difference between the home’s current market value and the homeowner’s mortgage balance due. Such loans tend to be of a fixed rate.
 
 Learning Outcomes: 1) Analyze HMEQ data using MS Excel to draw meaningful insights on loan defaults
+                   
                    2) Use MS Excel efficiently whilst dealing with various business problems to facilitate effective decision making
 
 Scenario: The Home Equity dataset (HMEQ) contains baseline and loan performance information for 5,960 recent home equity loans. The target (BAD) is a binary variable indicating whether an applicant eventually defaulted or was seriously delinquent. This adverse outcome occurred in 1,189 cases (20%). For each applicant, 12 input variables were recorded.
@@ -14,17 +15,29 @@ Data, Information for case analysis: Data is provided as an xlsx file. Below is 
 Source Link: https://www.kaggle.com/datasets/ajay1735/hmeq-data
 Data Description:
    BAD: 1 = client defaulted on loan; 0 = loan repaid
+   
    LOAN: Amount of the loan requested
+   
    MORTDUE: Amount due on existing mortgage
+   
    VALUE: Value of current property
+   
    REASON: The purpose of loan application. DebtCon = debt consolidation; HomeImp = home improvement
+   
    JOB: Six occupational categories
+   
    YOJ: Years at present job
+   
    DEROG: Number of major derogatory reports
+   
    DELINQ: Number of delinquent credit lines
+   
    CLAGE: Age of oldest trade line in months
+   
    NINQ: Number of recent credit lines
+   
    CLNO: Number of credit lines
+   
    DEBTINC: Debt-to-income ratio
 
 Analysis Asks: 1. What is the maximum amount of loan requested by a customer of the bank whose JOB falls under the “Office” category? (Use array formula)
